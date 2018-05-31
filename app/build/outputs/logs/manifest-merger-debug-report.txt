@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/lloyso/AndroidStudioProjects/CourtCounter/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/lloyso/AndroidStudioProjects/CourtCounter/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/lloyso/AndroidStudioProjects/CourtCounter/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/lloyso/AndroidStudioProjects/CourtCounter/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/lloyso/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c76ac5193806e042e5129f12945ac838/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/lloyso/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/70e7af5152d99c67fac7582932d0bcd6/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/lloyso/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ce076d40e8f21cc26c8a552233891060/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/lloyso/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/a81a08c521715842753cf6cb87abe3dc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/lloyso/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/ad4aa2c327bdaf1e513d8a7eb2786008/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/lloyso/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/633fe5f23365abd6d1cc11547eb57af2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/lloyso/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/6cb72e0b7d0599bf48fa32e1977ce7be/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/lloyso/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/79cf037514b9b63181781cf4cd097711/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/lloyso/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/9897bda3d36a2caa70157587742def2d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/lloyso/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/4920c1e82ca3ac66f16077cf209e28ad/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/lloyso/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c70bc8fb97d45f7ffc44bca355748181/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/lloyso/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/04ebc745959435c1be42456f1f779158/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/lloyso/AndroidStudioProjects/CourtCounter/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/lloyso/AndroidStudioProjects/CourtCounter/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/lloyso/AndroidStudioProjects/CourtCounter/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/lloyso/AndroidStudioProjects/CourtCounter/app/src/main/AndroidManifest.xml:3:5-47
+		INJECTED from /home/lloyso/AndroidStudioProjects/CourtCounter/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lloyso/AndroidStudioProjects/CourtCounter/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/lloyso/AndroidStudioProjects/CourtCounter/app/src/main/AndroidManifest.xml
+		ADDED from /home/lloyso/AndroidStudioProjects/CourtCounter/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/lloyso/AndroidStudioProjects/CourtCounter/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/lloyso/AndroidStudioProjects/CourtCounter/app/src/main/AndroidManifest.xml
+		ADDED from /home/lloyso/AndroidStudioProjects/CourtCounter/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/lloyso/AndroidStudioProjects/CourtCounter/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/lloyso/AndroidStudioProjects/CourtCounter/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/lloyso/AndroidStudioProjects/CourtCounter/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/lloyso/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/70e7af5152d99c67fac7582932d0bcd6/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/lloyso/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/70e7af5152d99c67fac7582932d0bcd6/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/lloyso/AndroidStudioProjects/CourtCounter/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/lloyso/AndroidStudioProjects/CourtCounter/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/lloyso/AndroidStudioProjects/CourtCounter/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/lloyso/AndroidStudioProjects/CourtCounter/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/lloyso/AndroidStudioProjects/CourtCounter/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/lloyso/AndroidStudioProjects/CourtCounter/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.android.courtcounter.MainActivity
+ADDED from /home/lloyso/AndroidStudioProjects/CourtCounter/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/lloyso/AndroidStudioProjects/CourtCounter/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/lloyso/AndroidStudioProjects/CourtCounter/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/lloyso/AndroidStudioProjects/CourtCounter/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/lloyso/AndroidStudioProjects/CourtCounter/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/lloyso/AndroidStudioProjects/CourtCounter/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/lloyso/AndroidStudioProjects/CourtCounter/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/lloyso/AndroidStudioProjects/CourtCounter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/lloyso/AndroidStudioProjects/CourtCounter/app/src/main/AndroidManifest.xml
+INJECTED from /home/lloyso/AndroidStudioProjects/CourtCounter/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/lloyso/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c76ac5193806e042e5129f12945ac838/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/lloyso/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c76ac5193806e042e5129f12945ac838/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/lloyso/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/70e7af5152d99c67fac7582932d0bcd6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/lloyso/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/70e7af5152d99c67fac7582932d0bcd6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /home/lloyso/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ce076d40e8f21cc26c8a552233891060/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/lloyso/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ce076d40e8f21cc26c8a552233891060/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/lloyso/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/a81a08c521715842753cf6cb87abe3dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/lloyso/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/a81a08c521715842753cf6cb87abe3dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/lloyso/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/ad4aa2c327bdaf1e513d8a7eb2786008/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/lloyso/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/ad4aa2c327bdaf1e513d8a7eb2786008/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/lloyso/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/633fe5f23365abd6d1cc11547eb57af2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/lloyso/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/633fe5f23365abd6d1cc11547eb57af2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/lloyso/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/6cb72e0b7d0599bf48fa32e1977ce7be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/lloyso/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/6cb72e0b7d0599bf48fa32e1977ce7be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/lloyso/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/79cf037514b9b63181781cf4cd097711/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/lloyso/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/79cf037514b9b63181781cf4cd097711/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/lloyso/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/9897bda3d36a2caa70157587742def2d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/lloyso/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/9897bda3d36a2caa70157587742def2d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/lloyso/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/4920c1e82ca3ac66f16077cf209e28ad/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/lloyso/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/4920c1e82ca3ac66f16077cf209e28ad/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/lloyso/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c70bc8fb97d45f7ffc44bca355748181/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/lloyso/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c70bc8fb97d45f7ffc44bca355748181/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/lloyso/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/04ebc745959435c1be42456f1f779158/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/lloyso/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/04ebc745959435c1be42456f1f779158/AndroidManifest.xml:20:5-44
+INJECTED from /home/lloyso/AndroidStudioProjects/CourtCounter/app/src/main/AndroidManifest.xml
+INJECTED from /home/lloyso/AndroidStudioProjects/CourtCounter/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/lloyso/AndroidStudioProjects/CourtCounter/app/src/main/AndroidManifest.xml
+		ADDED from /home/lloyso/AndroidStudioProjects/CourtCounter/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lloyso/AndroidStudioProjects/CourtCounter/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/lloyso/AndroidStudioProjects/CourtCounter/app/src/main/AndroidManifest.xml
+		ADDED from /home/lloyso/AndroidStudioProjects/CourtCounter/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lloyso/AndroidStudioProjects/CourtCounter/app/src/main/AndroidManifest.xml
