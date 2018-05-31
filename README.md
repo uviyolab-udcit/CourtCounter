@@ -1,4 +1,4 @@
 # CourtCounter
-A basketball game core point counting app
+A basketball game scoring app
 
 ![jJustJava app screen shot](CC_ScreenShots/cc_scrnshot1.png "")
