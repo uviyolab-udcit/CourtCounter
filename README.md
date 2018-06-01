@@ -1,12 +1,17 @@
 # CourtCounter
 A basketball game score tracking app for two teams
 
-![jJustJava app screen shot](CC_ScreenShots/cc_scrnshot1.png "")
+![jJustJava app screen shot](CC_ScreenShots/cc_scrnshot10.png "")
+
 ![jJustJava app screen shot](CC_ScreenShots/cc_scrnshot2.png "")
 ![jJustJava app screen shot](CC_ScreenShots/cc_scrnshot3.png "")
 
 ![jJustJava app screen shot](CC_ScreenShots/cc_scrnshot5.png "")
 ![jJustJava app screen shot](CC_ScreenShots/cc_scrnshot6.png "")
+![jJustJava app screen shot](CC_ScreenShots/cc_scrnshot7.png "")
+![jJustJava app screen shot](CC_ScreenShots/cc_scrnshot8.png "")
+![jJustJava app screen shot](CC_ScreenShots/cc_scrnshot9.png "")
+
 
 Pre-requisites
 
